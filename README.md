@@ -3,6 +3,13 @@
 ## Project Description
 An employee management system built to serve all the end to end requirements of HR department of a company. It includes features requirements from both manager and employee point of view.
 
+Live Web App : https://nicher-c9290.web.app/#/ <br>
+Download APK : https://github.com/ap217/IT314_project_1/blob/main/nicher.apk <br>
+### login details 
+- emp -> 000000
+- man -> 000000
+- admin -> admin
+
 ## Tools and technologies specification
 1. Frontend Development : Flutter framework based on Dart language
 2. Backend Development : Node.js
